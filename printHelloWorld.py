@@ -3,9 +3,5 @@
 # Module required to get current date and time
 import datetime
 
-
-print(datetime.datetime.now())
-#Gets current date and time to print
-
-print('\n')
-print('Hello World')
+print('Hello World\n')
+print(datetime.datetime.now()) # Presents current date and time.
